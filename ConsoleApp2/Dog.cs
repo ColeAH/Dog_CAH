@@ -38,7 +38,7 @@ namespace ConsoleApp2 {
 			return name;
 		}
 
-		public void setName(string Name) {
+		public void setName(string name) {
 			bool valid = true;
 			char[] n = name.ToCharArray();
 
